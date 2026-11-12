@@ -1,0 +1,10 @@
+{
+  "entry": "client/dist/index.html",
+  "managedCronJobs": [
+    "bo-ke-podcast-daily-refresh"
+  ],
+  "name": "播客",
+  "platformVersion": 28,
+  "runtime": "typescript",
+  "slug": "bo-ke-shou-ting-he-shou-cang"
+}
